@@ -1,1 +1,0 @@
-import{ai as t,j as o,aj as r,ah as n}from"./AppErrorBoundary-BwnEy8as.js";const e=document.getElementById("root");if(!e)throw new Error("Could not find root element to mount component preview");t.createRoot(e).render(o.jsx(r,{children:o.jsx(n,{})}));
