@@ -1,0 +1,1 @@
+import{a_ as t,j as o,a$ as r,aZ as n}from"./AppErrorBoundary-OyfqTyXp.js";const e=document.getElementById("root");if(!e)throw new Error("Could not find root element to mount component preview");t.createRoot(e).render(o.jsx(r,{children:o.jsx(n,{})}));
